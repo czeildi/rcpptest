@@ -1,12 +1,14 @@
 Package: rcpptest
-Title: What the Package Does (One Line, Title Case)
+Title: Learn Rcpp
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Ildi",
+           family = "Czeller",
            role = c("aut", "cre"),
            email = "first.last@example.com")
 Description: What the package does (one paragraph).
-License: What license it uses
+License: MIT
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/czeildi/rcpptest
+BugReports: https://github.com/czeildi/rcpptest/issues
