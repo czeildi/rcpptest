@@ -6,8 +6,8 @@ Authors@R:
            family = "Czeller",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: MIT
+Description: Learn Rcpp by exercises.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/czeildi/rcpptest
