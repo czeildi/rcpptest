@@ -12,3 +12,8 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/czeildi/rcpptest
 BugReports: https://github.com/czeildi/rcpptest/issues
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
+RoxygenNote: 6.1.0
